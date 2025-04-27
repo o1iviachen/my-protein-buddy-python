@@ -1,1 +1,1 @@
-# My New Project
+# MyProteinBuddy (Python Version)
